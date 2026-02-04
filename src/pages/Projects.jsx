@@ -1,12 +1,20 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
+import smartCanteen from '../assets/skills/smart_canteen.jpeg';
+import portfolio from '../assets/skills/portfolio.png';
+import eventhandler from '../assets/skills/eventhandler.png';
+import foodmart from '../assets/skills/foodmart.png';
+import SmartEv from '../assets/skills/SmartEv.png';
+import McaStudyhub from '../assets/skills/McaStudyhub.png';
+
+
 
 const PROJECTS = [
    {
     title: '🧑‍💻 Personal Portfolio',
     desc: 'Modern responsive developer portfolio with gallery, certificates, resume and premium UI animations.',
-    ss: '/portfolio.png',
+    ss: portfolio,
     tech: ['React', 'Vite', 'CSS', 'Framer Motion'],
     live: 'https://shanmukha-portfolio-three.vercel.app',
     code: 'https://github.com/shannu1653/Shanmukha_Portfolio'
@@ -14,7 +22,7 @@ const PROJECTS = [
   {
     title: '🎓 MCA Study Hub',
     desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
-    ss: '/McaStudyhub.png',
+    ss: McaStudyhub,
     tech: ['React', 'Django REST', 'MySQL', 'JWT'],
     live: 'https://mca-study-hub.vercel.app',
     code: 'https://github.com/shannu1653/mca-study-hub.git'
@@ -22,16 +30,24 @@ const PROJECTS = [
   {
     title: '🎓 Smart EV Station Loc',
     desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
-    ss: '/McaStudyhub.png',
+    ss: SmartEv,
     tech: ['React', 'Django REST', 'MySQL', 'JWT'],
     live: 'https://mca-study-hub.vercel.app',
     code: 'https://github.com/shannu1653/mca-study-hub.git'
+  },
+  {
+    title: '🍽 Smart Canteen Menu',
+    desc: 'Food ordering and management system for colleges with admin control and student dashboard.',
+    ss: smartCanteen,
+    tech: ['Python', 'Django', 'HTML', 'CSS'],
+    live: 'https://smart-menu-canteen.onrender.com/',
+    code: 'https://github.com/shannu1653/smart_menu_canteen.git'
   },
 
   {
     title: '🎫 Premium Eventbrite ',
     desc: 'Event booking platform with auth, wishlist, filters, CRUD events and localStorage powered flow.',
-    ss: '/eventhandler.png',
+    ss: eventhandler,
     tech: ['JavaScript', 'HTML', 'CSS'],
     live: '#',
     code: '#'
@@ -46,19 +62,12 @@ const PROJECTS = [
     code: '#'
   },
 
-  {
-    title: '🍽 Smart Canteen Menu',
-    desc: 'Food ordering and management system for colleges with admin control and student dashboard.',
-    ss: '/foodmart.png',
-    tech: ['Python', 'Django', 'HTML', 'CSS'],
-    live: '#',
-    code: '#'
-  },
+  
 
   {
     title: '📊 FoodMart',
     desc: 'CSV profiling tool for data analysis and visualization.',
-    ss: '/smart_canteen.jpeg',
+    ss: foodmart,
     tech: ['Python', 'Pandas', 'Streamlit'],
     live: '#',
     code: '#'
