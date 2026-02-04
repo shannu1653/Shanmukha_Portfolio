@@ -71,44 +71,60 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 ## ⭐ Featured Projects
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
 </p>
 
-<p align="center">
+---
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png" width="45%"/>
-</p>
+### 🎓 MCA Study Hub – Notes & Previous Year Papers Platform
 
-<p align="center">
+🔹 Full-Stack Platform for MCA students  
+🔹 Upload / Download Notes & PYQs  
+🔹 Django REST + React + MySQL  
+🔹 JWT Authentication + Admin Panel  
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png" width="45%"/>
-
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
-
-</p>
-
-
-<p align="center">
-
-<a href="https://mca-study-hub.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=MCA_Study_Hub&theme=tokyonight"/>
-</a>
+🌐 Live Demo: https://mca-study-hub.vercel.app  
+💻 GitHub: https://github.com/shannu1653/MCA_Study_Hub
 
 <a href="https://github.com/shannu1653/Shanmukha_Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Shanmukha_Portfolio&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png">
 </a>
 
-</p>
+---
+
+### 🧑‍💻 Personal Portfolio Website
+
+🔹 Modern Developer Portfolio  
+🔹 React + Vite Frontend  
+🔹 Gallery, Certificates, Resume Download  
+🔹 Responsive Premium UI  
+
+🌐 Live Demo: https://shanmukha-portfolio-three.vercel.app  
+💻 GitHub: https://github.com/shannu1653/Shanmukha_Portfolio
+
+---
 
 <p align="center">
-<img src="https://via.placeholder.com/450x200/0f172a/00ffd5?text=Premium+Eventbrite+Clone"/>
-<img src="https://via.placeholder.com/450x200/0f172a/00ffd5?text=StudentHub+Platform"/>
+<a href="https://github.com/shannu1653/MCA_Study_Hub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=MCA_Study_Hub&theme=tokyonight">
+</a>
+<a href="https://github.com/shannu1653/Shanmukha_Portfolio">
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png">
+</a>
 </p>
+
+---
+
+### 🚀 Upcoming Projects
+
+🟢 Premium Eventbrite Clone  
+🟢 StudentHub Resource Sharing Platform  
+🟢 Traffic Management Dashboard  
+
+(Adding soon…)
+
+
 
 ---
 
