@@ -8,13 +8,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shannu1653
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist

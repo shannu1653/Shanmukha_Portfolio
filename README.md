@@ -6,7 +6,7 @@
 <a href="https://drive.google.com/file/d/1bC3viGDF6CxyWz5S2h5CY9PbG81475JD/view?usp=sharing">
 <img src="https://img.shields.io/badge/Download%20CV-00ffd5?style=for-the-badge"/>
 </a>
-<a href="https://kunj-desai.vercel.app/">
+<a href="https://shanmukha-portfolio-three.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/shanmukhapenta/">
@@ -25,7 +25,7 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 
 ## 🌐 Live Portfolio
 
-👉 https://kunj-desai.vercel.app
+👉 https://shanmukha-portfolio-three.vercel.app/
 
 ---
 
@@ -57,8 +57,9 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shannu1653/shannu1653/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
