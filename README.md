@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD5&center=true&vCenter=true&width=650&lines=Hi+I'm+Shanmukha+Penta;Full+Stack+Developer;React+%7C+Python+%7C+Django;AI+%7C+ML+Explorer;Welcome+to+my+Portfolio+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFD5&center=true&vCenter=true&width=700&lines=Hi+I'm+Shanmukha+Penta;Full+Stack+Developer;React+%7C+Python+%7C+Django;AI+%7C+ML+Explorer;Welcome+to+my+Portfolio+🚀"/>
 </p>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1bC3viGDF6CxyWz5S2h5CY9PbG81475JD/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1bC3viGDF6CxyWz5S2h5CY9PbG81475JD/view">
 <img src="https://img.shields.io/badge/Download%20CV-00ffd5?style=for-the-badge"/>
 </a>
 <a href="https://shanmukha-portfolio-three.vercel.app/">
@@ -18,22 +18,15 @@
 
 ## 👋 About Me
 
-I’m **Shanmukha Penta**, a passionate Full-Stack Developer focused on building modern web applications using **React, Django, and Python**.  
-I enjoy crafting premium UI, scalable backends, and meaningful digital experiences.
+I’m **Shanmukha Penta**, a passionate **Full-Stack Developer** focused on building modern applications using **React, Django, and Python**.
+
+I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ---
 
 ## 🌐 Live Portfolio
 
 👉 https://shanmukha-portfolio-three.vercel.app/
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shannu1653&theme=onedark&row=1&no-frame=true"/>
-</p>
 
 ---
 
@@ -48,16 +41,10 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
-    style="max-width:100%;"
-  />
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<br/>
-
-
+---
 
 ## 📊 GitHub Stats
 
@@ -66,7 +53,7 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=tokyonight" width="48%"/>
 </p>
 
-
+---
 
 ## 🧠 Tech Stack
 
@@ -76,54 +63,52 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills Progress
 
-| Skill | Level |
-|------|------|
-| React | ██████████ 90% |
-| JavaScript | █████████ 85% |
-| Python | █████████ 85% |
-| Django | ████████ 80% |
-| MySQL | ████████ 80% |
-| CSS | ████████ 80% |
+React  
+![90%](https://progress-bar.dev/90/?title=React&width=500&color=00ffd5)
 
----
+JavaScript  
+![85%](https://progress-bar.dev/85/?title=JavaScript&width=500&color=6366f1)
 
-## 📄 Resume Preview
+Python  
+![95%](https://progress-bar.dev/95/?title=Python&width=500&color=facc15)
 
-<p align="center">
-<img src="public/portfolio.jpg" width="80%"/>
-</p>
+Django  
+![90%](https://progress-bar.dev/90/?title=Django&width=500&color=4ade80)
+
+MySQL  
+![90%](https://progress-bar.dev/90/?title=MySQL&width=500&color=38bdf8)
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🎓 MCA Study Hub
-🔗 https://mca-study-hub.vercel.app  
-📚 React + Django + MySQL  
-Centralized notes & PYQ platform.
+<p align="center">
 
----
+<a href="https://mca-study-hub.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=MCA_Study_Hub&theme=tokyonight"/>
+</a>
 
-### 🎫 Premium Eventbrite Clone
-🛠 JavaScript  
-Event booking + wishlist system.
+<a href="https://github.com/shannu1653/Shanmukha_Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shannu1653&repo=Shanmukha_Portfolio&theme=tokyonight"/>
+</a>
 
----
+</p>
 
-### 🌐 Personal Portfolio
-🔗 https://kunj-desai.vercel.app  
-React + Framer Motion + EmailJS.
+<p align="center">
+<img src="https://via.placeholder.com/450x200/0f172a/00ffd5?text=Premium+Eventbrite+Clone"/>
+<img src="https://via.placeholder.com/450x200/0f172a/00ffd5?text=StudentHub+Platform"/>
+</p>
 
 ---
 
 ## ⏳ Career Timeline
 
-- 2023 — Started Full Stack Development  
-- 2024 — Built MCA Study Hub  
-- 2025 — Portfolio + Production Projects  
-- 2026 — Advanced React + Django Systems  
+• 2023 — Started Full Stack Development  
+• 2024 — Built MCA Study Hub  
+• 2025 — Production Projects  
+• 2026 — Advanced React + Django  
 
 ---
 
@@ -155,7 +140,7 @@ React + Framer Motion + EmailJS.
 
 📧 Email: pentashanmukha2002@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/shanmukhapenta  
-🌐 Portfolio: https://kunj-desai.vercel.app  
+🌐 Portfolio: https://shanmukha-portfolio-three.vercel.app  
 💬 WhatsApp: https://wa.me/918096085857  
 
 ---
