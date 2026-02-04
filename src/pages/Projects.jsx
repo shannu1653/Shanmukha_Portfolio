@@ -3,63 +3,68 @@ import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
+   {
+    title: '🧑‍💻 Personal Portfolio',
+    desc: 'Modern responsive developer portfolio with gallery, certificates, resume and premium UI animations.',
+    ss: '/portfolio.png',
+    tech: ['React', 'Vite', 'CSS', 'Framer Motion'],
+    live: 'https://shanmukha-portfolio-three.vercel.app',
+    code: 'https://github.com/shannu1653/Shanmukha_Portfolio'
+  },
   {
-    title: '🩺 Mammogram Malignancy Detector',
-    desc: 'Hybrid CNN + YOLOv8 ensemble for full-image breast cancer detection with ROI preprocessing and sliding-window inference.',
-    ss: '/mamo.png',
-    tech: ['TensorFlow', 'Keras', 'OpenCV', 'YOLOv8'],
+    title: '🎓 MCA Study Hub',
+    desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
+    ss: '/McaStudyhub.png',
+    tech: ['React', 'Django REST', 'MySQL', 'JWT'],
+    live: 'https://mca-study-hub.vercel.app',
+    code: 'https://github.com/shannu1653/mca-study-hub.git'
+  },
+  {
+    title: '🎓 Smart EV Station Loc',
+    desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
+    ss: '/McaStudyhub.png',
+    tech: ['React', 'Django REST', 'MySQL', 'JWT'],
+    live: 'https://mca-study-hub.vercel.app',
+    code: 'https://github.com/shannu1653/mca-study-hub.git'
+  },
+
+  {
+    title: '🎫 Premium Eventbrite ',
+    desc: 'Event booking platform with auth, wishlist, filters, CRUD events and localStorage powered flow.',
+    ss: '/eventhandler.png',
+    tech: ['JavaScript', 'HTML', 'CSS'],
     live: '#',
-    code: 'https://github.com/kunjdesai/mammo-detector'
+    code: '#'
   },
+
   {
-  title: '🧠 Mental Health Analyzer',
-  desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
-  ss: '/mentalhealth.jpg',
-  tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
-  live: 'https://mental-health-analyzer.streamlit.app/',
-  code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
-  },
-  {
-    title: '🤖 Indian Sign Language Interpreter',
-    desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
-    ss: '/ISL.png',
-    tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
+    title: '🚦 Traffic Management System',
+    desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
+    ss: '/SmartEv.png',
+    tech: ['React', 'Django', 'MySQL'],
     live: '#',
-    code: 'https://github.com/kunjdesai/ISL-Interpreter'
+    code: '#'
   },
+
   {
-  title: '💼 Portfolio Website',
-  desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
-  ss: '/portfolio.jpg',
-  tech: ['React', 'Framer Motion', 'Tailwind CSS'],
-  live: '#',
-  code: 'https://github.com/kunj2803/Kunj-Portfolio'
-  },
-  {
-    title: '💬 DocuChat – Gemini AI Chatbot',
-    desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
-    ss: '/Docuchat.png',
-    tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
-    live: 'https://docuchat-chatbot.streamlit.app/',
-    code: 'https://github.com/kunj2803/Docuchat-Chatbot'
-  },
-  {
-    title: '📊 ProfileX – Data Profiler',
-    desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
-    ss: '/ProfileX.png',
-    tech: ['Streamlit', 'Pandas', 'Plotly'],
-    live: 'https://profilex.streamlit.app/',
-    code: 'https://github.com/kunjdesai/ProfileX'
-  },
-  {
-    title: '🧬 Breast Cancer Prediction',
-    desc: 'ML pipeline using SVC, Random Forest, and XGBoost with SMOTE for imbalanced dataset handling and model optimization.',
-    ss: '/breastpred.jpg',
-    tech: ['scikit-learn', 'XGBoost', 'Pandas'],
+    title: '🍽 Smart Canteen Menu',
+    desc: 'Food ordering and management system for colleges with admin control and student dashboard.',
+    ss: '/foodmart.png',
+    tech: ['Python', 'Django', 'HTML', 'CSS'],
     live: '#',
-    code: 'https://github.com/kunjdesai/BreastCancerPrediction'
+    code: '#'
+  },
+
+  {
+    title: '📊 FoodMart',
+    desc: 'CSV profiling tool for data analysis and visualization.',
+    ss: '/smart_canteen.jpeg',
+    tech: ['Python', 'Pandas', 'Streamlit'],
+    live: '#',
+    code: '#'
   }
 ]
+
 
 export default function Projects() {
   return (
