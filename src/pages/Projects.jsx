@@ -54,13 +54,14 @@ const PROJECTS = [
   },
 
   {
-    title: '🚦 Traffic Management System',
-    desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
-    ss: '/SmartEv.png',
-    tech: ['React', 'Django', 'MySQL'],
-    live: '#',
-    code: '#'
-  },
+  title: '🚦 Traffic Management System',
+  desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
+  ss: SmartEv,
+  tech: ['React', 'Django', 'MySQL'],
+  live: '#',
+  code: '#'
+},
+
 
   
 
