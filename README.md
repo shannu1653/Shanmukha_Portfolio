@@ -49,15 +49,22 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=tokyonight" width="48%"/>
-
-<img src="https://github-readme-streak-stats.vercel.app?user=shannu1653&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=tokyonight" />
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=shannu1653&theme=tokyonight" />
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1653&layout=compact&theme=tokyonight" />
+
+</p>
+---
 
 
 ## 🧠 Tech Stack
