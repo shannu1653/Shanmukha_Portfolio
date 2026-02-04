@@ -1,0 +1,63 @@
+<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+circle {
+  fill: none;
+  stroke-width: 10;
+  stroke-linecap: round;
+  animation: progress 2s ease forwards;
+}
+
+@keyframes progress {
+  from { stroke-dasharray: 0 999; }
+}
+
+text {
+  fill: white;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-anchor: middle;
+}
+.label {
+  font-size: 13px;
+  fill: #aaa;
+}
+</style>
+
+<!-- React -->
+<circle cx="80" cy="80" r="45" stroke="#222"></circle>
+<circle cx="80" cy="80" r="45" stroke="#00ffd5" stroke-dasharray="255 283"></circle>
+<text x="80" y="85">90%</text>
+<text class="label" x="80" y="115">React</text>
+
+<!-- JavaScript -->
+<circle cx="200" cy="80" r="45" stroke="#222"></circle>
+<circle cx="200" cy="80" r="45" stroke="#6366f1" stroke-dasharray="240 283"></circle>
+<text x="200" y="85">85%</text>
+<text class="label" x="200" y="115">JS</text>
+
+<!-- Python -->
+<circle cx="320" cy="80" r="45" stroke="#222"></circle>
+<circle cx="320" cy="80" r="45" stroke="#facc15" stroke-dasharray="270 283"></circle>
+<text x="320" y="85">95%</text>
+<text class="label" x="320" y="115">Python</text>
+
+<!-- Django -->
+<circle cx="440" cy="80" r="45" stroke="#222"></circle>
+<circle cx="440" cy="80" r="45" stroke="#4ade80" stroke-dasharray="255 283"></circle>
+<text x="440" y="85">90%</text>
+<text class="label" x="440" y="115">Django</text>
+
+<!-- MySQL -->
+<circle cx="140" cy="190" r="45" stroke="#222"></circle>
+<circle cx="140" cy="190" r="45" stroke="#38bdf8" stroke-dasharray="255 283"></circle>
+<text x="140" y="195">90%</text>
+<text class="label" x="140" y="225">MySQL</text>
+
+<!-- Git -->
+<circle cx="300" cy="190" r="45" stroke="#222"></circle>
+<circle cx="300" cy="190" r="45" stroke="#f97316" stroke-dasharray="255 283"></circle>
+<text x="300" y="195">90%</text>
+<text class="label" x="300" y="225">Git</text>
+
+</svg>

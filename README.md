@@ -63,26 +63,12 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ---
 
-## 🚀 Skills Progress
+## 🚀 Animated Skill Bars
 
 <p align="center">
-
-React  
-<img src="https://progress-bar.dev/90/?width=600&color=00ffd5"/>
-
-JavaScript  
-<img src="https://progress-bar.dev/85/?width=600&color=6366f1"/>
-
-Python  
-<img src="https://progress-bar.dev/95/?width=600&color=facc15"/>
-
-Django  
-<img src="https://progress-bar.dev/90/?width=600&color=4ade80"/>
-
-MySQL  
-<img src="https://progress-bar.dev/90/?width=600&color=38bdf8"/>
-
+<img src="assets/skills/skills.svg"/>
 </p>
+
 
 
 ## ⭐ Featured Projects
