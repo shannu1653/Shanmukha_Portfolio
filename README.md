@@ -72,17 +72,17 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/portfolio.jpg" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/ss1.svg" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/ss2.svg" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png"" width="45%"/>
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/ss3.svg" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
 
 </p>
 
