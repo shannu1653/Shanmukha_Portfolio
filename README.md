@@ -45,6 +45,20 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+    style="max-width:100%;"
+  />
+</p>
+
+<br/>
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
