@@ -1,63 +1,91 @@
-<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="620" height="280" viewBox="0 0 620 280" xmlns="http://www.w3.org/2000/svg">
 
 <style>
-circle {
-  fill: none;
-  stroke-width: 10;
-  stroke-linecap: round;
-  animation: progress 2s ease forwards;
+.bg {
+  stroke:#0f172a;
+  stroke-width:10;
+  fill:none;
 }
 
-@keyframes progress {
-  from { stroke-dasharray: 0 999; }
+.bar {
+  stroke-width:10;
+  fill:none;
+  stroke-linecap:round;
+  stroke-dasharray:0 283;
+  animation: grow 2s ease forwards;
+  filter: drop-shadow(0 0 6px currentColor)
+          drop-shadow(0 0 12px currentColor);
+}
+
+@keyframes grow {
+  to { stroke-dasharray: var(--dash) 283; }
 }
 
 text {
-  fill: white;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  text-anchor: middle;
+  fill:white;
+  font-family:Arial;
+  font-size:14px;
+  text-anchor:middle;
 }
+
 .label {
-  font-size: 13px;
-  fill: #aaa;
+  fill:#9ca3af;
+  font-size:12px;
 }
 </style>
 
 <!-- React -->
-<circle cx="80" cy="80" r="45" stroke="#222"></circle>
-<circle cx="80" cy="80" r="45" stroke="#00ffd5" stroke-dasharray="255 283"></circle>
-<text x="80" y="85">90%</text>
-<text class="label" x="80" y="115">React</text>
+<g style="--dash:255; color:#00ffd5">
+<circle cx="80" cy="80" r="45" class="bg"></circle>
+<circle cx="80" cy="80" r="45" class="bar" stroke="currentColor"></circle>
+<image href="https://skillicons.dev/icons?i=react" x="60" y="55" width="40"></image>
+<text x="80" y="105">90%</text>
+<text class="label" x="80" y="125">React</text>
+</g>
 
-<!-- JavaScript -->
-<circle cx="200" cy="80" r="45" stroke="#222"></circle>
-<circle cx="200" cy="80" r="45" stroke="#6366f1" stroke-dasharray="240 283"></circle>
-<text x="200" y="85">85%</text>
-<text class="label" x="200" y="115">JS</text>
+<!-- JS -->
+<g style="--dash:240; color:#6366f1">
+<circle cx="200" cy="80" r="45" class="bg"></circle>
+<circle cx="200" cy="80" r="45" class="bar" stroke="currentColor"></circle>
+<image href="https://skillicons.dev/icons?i=javascript" x="180" y="55" width="40"></image>
+<text x="200" y="105">85%</text>
+<text class="label" x="200" y="125">JS</text>
+</g>
 
 <!-- Python -->
-<circle cx="320" cy="80" r="45" stroke="#222"></circle>
-<circle cx="320" cy="80" r="45" stroke="#facc15" stroke-dasharray="270 283"></circle>
-<text x="320" y="85">95%</text>
-<text class="label" x="320" y="115">Python</text>
+<g style="--dash:270; color:#facc15">
+<circle cx="320" cy="80" r="45" class="bg"></circle>
+<circle cx="320" cy="80" r="45" class="bar" stroke="currentColor"></circle>
+<image href="https://skillicons.dev/icons?i=python" x="300" y="55" width="40"></image>
+<text x="320" y="105">95%</text>
+<text class="label" x="320" y="125">Python</text>
+</g>
 
 <!-- Django -->
-<circle cx="440" cy="80" r="45" stroke="#222"></circle>
-<circle cx="440" cy="80" r="45" stroke="#4ade80" stroke-dasharray="255 283"></circle>
-<text x="440" y="85">90%</text>
-<text class="label" x="440" y="115">Django</text>
+<g style="--dash:255; color:#4ade80">
+<circle cx="440" cy="80" r="45" class="bg"></circle>
+<circle cx="440" cy="80" r="45" class="bar" stroke="currentColor"></circle>
+<image href="https://skillicons.dev/icons?i=django" x="420" y="55" width="40"></image>
+<text x="440" y="105">90%</text>
+<text class="label" x="440" y="125">Django</text>
+</g>
 
 <!-- MySQL -->
-<circle cx="140" cy="190" r="45" stroke="#222"></circle>
-<circle cx="140" cy="190" r="45" stroke="#38bdf8" stroke-dasharray="255 283"></circle>
-<text x="140" y="195">90%</text>
-<text class="label" x="140" y="225">MySQL</text>
+<g style="--dash:255; color:#38bdf8">
+<circle cx="180" cy="200" r="45" class="bg"></circle>
+<circle cx="180" cy="200" r="45" class="bar" stroke="currentColor"></circle>
+<image href="https://skillicons.dev/icons?i=mysql" x="160" y="175" width="40"></image>
+<text x="180" y="225">90%</text>
+<text class="label" x="180" y="245">MySQL</text>
+</g>
 
 <!-- Git -->
-<circle cx="300" cy="190" r="45" stroke="#222"></circle>
-<circle cx="300" cy="190" r="45" stroke="#f97316" stroke-dasharray="255 283"></circle>
-<text x="300" y="195">90%</text>
-<text class="label" x="300" y="225">Git</text>
+<g style="--dash:255; color:#f97316">
+<circle cx="340" cy="200" r="45" class="bg"></circle>
+<circle cx="340" cy="200" r="45" class="bar" stroke="currentColor"></circle>
+<image href="https://skillicons.dev/icons?i=git" x="320" y="175" width="40"></image>
+<text x="340" y="225">90%</text>
+<text class="label" x="340" y="245">Git</text>
+</g>
 
 </svg>
