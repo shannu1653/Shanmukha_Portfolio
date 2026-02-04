@@ -64,7 +64,7 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ## 🚀 Animated Skill Rings
 <p align="center"> <!-- React --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/react.svg"
- width="130"/> <!-- JS --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/js.svg" width="130"/> <!-- Python --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/python.svg" width="130"/> <!-- Django --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/assets/public/skills/django.svg" width="130"/> <br/> <!-- MySQL --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/assets/public/skills/mysql.svg" width="130"/> <!-- Git --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/git.svg" width="130"/> </p>
+ width="130"/> <!-- JS --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/js.svg" width="130"/> <!-- Python --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/python.svg" width="130"/> <!-- Django --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/assets/skills/django.svg" width="130"/> <br/> <!-- MySQL --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/assets/skills/mysql.svg" width="130"/> <!-- Git --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/git.svg" width="130"/> </p>
 
 
 
