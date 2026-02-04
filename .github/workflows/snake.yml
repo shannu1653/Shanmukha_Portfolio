@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
