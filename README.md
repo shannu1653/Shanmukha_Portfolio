@@ -1,82 +1,173 @@
-# 💻 Kunj Desai — Portfolio Website
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD5&center=true&vCenter=true&width=650&lines=Hi+I'm+Shanmukha+Penta;Full+Stack+Developer;React+%7C+Python+%7C+Django;AI+%7C+ML+Explorer;Welcome+to+my+Portfolio+🚀" />
+</p>
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
-
-🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
----
-
-## 🚀 Features
-
-* 🎨 **Modern UI/UX** with black-based aesthetic theme
-* ⚡ Smooth **Framer Motion** animations
-* 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
-* 📨 Functional contact form powered by **EmailJS**
-* 🧩 Responsive design for all screen sizes
+<p align="center">
+<a href="https://drive.google.com/file/d/1bC3viGDF6CxyWz5S2h5CY9PbG81475JD/view?usp=sharing">
+<img src="https://img.shields.io/badge/Download%20CV-00ffd5?style=for-the-badge"/>
+</a>
+<a href="https://kunj-desai.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/shanmukhapenta/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-| Category            | Tools / Libraries                        |
-| ------------------- | ---------------------------------------- |
-| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
-| **Styling**         | Tailwind CSS / Custom CSS                |
-| **Animation**       | Framer Motion                            |
-| **Contact Form**    | EmailJS                                  |
-| **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+I’m **Shanmukha Penta**, a passionate Full-Stack Developer focused on building modern web applications using **React, Django, and Python**.  
+I enjoy crafting premium UI, scalable backends, and meaningful digital experiences.
 
 ---
 
-## ⚙️ Setup Instructions
+## 🌐 Live Portfolio
 
-To run this project locally:
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
-
-# 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
-
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Run development server
-npm start or npm run dev
-```
-
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+👉 https://kunj-desai.vercel.app
 
 ---
 
-## 📬 Contact
+## 🏆 GitHub Trophies
 
-If you’d like to collaborate or just say hi 👋, feel free to reach out!
-
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
-
----
-
-## 🌟 Deployment
-
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shannu1653&theme=onedark&row=1&no-frame=true"/>
+</p>
 
 ---
 
-### 🏁 License
+## 💬 Developer Quote
 
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ---
 
-> *“Showcasing my work and passion through technology 💻”*
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shannu1653&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shannu1653/shannu1653/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,python,django,mysql,html,css,git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+## 🚀 Skills
+
+| Skill | Level |
+|------|------|
+| React | ██████████ 90% |
+| JavaScript | █████████ 85% |
+| Python | █████████ 85% |
+| Django | ████████ 80% |
+| MySQL | ████████ 80% |
+| CSS | ████████ 80% |
+
+---
+
+## 📄 Resume Preview
+
+<p align="center">
+<img src="public/portfolio.jpg" width="80%"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🎓 MCA Study Hub
+🔗 https://mca-study-hub.vercel.app  
+📚 React + Django + MySQL  
+Centralized notes & PYQ platform.
+
+---
+
+### 🎫 Premium Eventbrite Clone
+🛠 JavaScript  
+Event booking + wishlist system.
+
+---
+
+### 🌐 Personal Portfolio
+🔗 https://kunj-desai.vercel.app  
+React + Framer Motion + EmailJS.
+
+---
+
+## ⏳ Career Timeline
+
+- 2023 — Started Full Stack Development  
+- 2024 — Built MCA Study Hub  
+- 2025 — Portfolio + Production Projects  
+- 2026 — Advanced React + Django Systems  
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+<img src="public/certs/adira.png" width="180"/>
+<img src="public/certs/bugbuzz.png" width="180"/>
+<img src="public/certs/codathon.png" width="180"/>
+<img src="public/certs/hack2skill.png" width="180"/>
+</p>
+
+---
+
+## 📸 Project Gallery
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" width="45%"/>
+<img src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" width="45%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" width="45%"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+📧 Email: pentashanmukha2002@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shanmukhapenta  
+🌐 Portfolio: https://kunj-desai.vercel.app  
+💬 WhatsApp: https://wa.me/918096085857  
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shannu1653&style=for-the-badge&color=00ffd5"/>
+</p>
+
+---
+
+## 🏁 License
+
+MIT License — free to use, fork & modify.
+
+---
+
+<p align="center">
+⭐ Built with passion by <b>Shanmukha Penta</b>
+</p>
