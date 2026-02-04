@@ -62,15 +62,29 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ---
 
-## 🚀 Animated Skill Bars
-
-<p align="center">
-<img src="assets/skills/skills.svg"/>
-</p>
+## 🚀 Animated Skill Rings
+<p align="center"> <!-- React --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/react.svg" width="130"/> <!-- JS --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/js.svg" width="130"/> <!-- Python --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/python.svg" width="130"/> <!-- Django --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/django.svg" width="130"/> <br/> <!-- MySQL --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/mysql.svg" width="130"/> <!-- Git --> <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/skills/git.svg" width="130"/> </p>
 
 
 
 ## ⭐ Featured Projects
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/portfolio.jpg" width="45%"/>
+
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/ss1.svg" width="45%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/ss2.svg" width="45%"/>
+
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/public/ss3.svg" width="45%"/>
+
+</p>
+
 
 <p align="center">
 
