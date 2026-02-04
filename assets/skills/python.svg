@@ -1,0 +1,9 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="6"></feGaussianBlur><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs>
+<circle cx="70" cy="70" r="55" stroke="#111" stroke-width="12" fill="none"></circle>
+<circle cx="70" cy="70" r="55" stroke="#facc15" stroke-width="12" fill="none" stroke-dasharray="345" stroke-dashoffset="17" filter="url(#glow)">
+<animate attributeName="stroke-dashoffset" from="345" to="17" dur="2s" fill="freeze"></animate>
+</circle>
+<text x="70" y="65" text-anchor="middle" fill="white" font-size="20">95%</text>
+<text x="70" y="88" text-anchor="middle" fill="#facc15">Python</text>
+</svg>
