@@ -71,16 +71,22 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 ## ⭐ Featured Projects
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
-
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
-
 </p>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png"" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png" width="45%"/>
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png" width="45%"/>
 
 <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
 
