@@ -52,16 +52,7 @@ I enjoy crafting premium UI, scalable backends, and meaningful digital experienc
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1653&theme=tokyonight" width="48%"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
 
 ## 🧠 Tech Stack
 
