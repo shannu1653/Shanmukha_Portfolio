@@ -145,24 +145,20 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ## 🏅 Certifications
 
-<p align="center">
+<!-- <p align="center">
 <img src="public/certs/adira.png" width="180"/>
 <img src="public/certs/bugbuzz.png" width="180"/>
 <img src="public/certs/codathon.png" width="180"/>
 <img src="public/certs/hack2skill.png" width="180"/>
-</p>
-
+</p> -->
+adding soon...................
 ---
 
 ## 📸 Project Gallery
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" width="45%"/>
-<img src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" width="45%"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/p1.png" width="45%"/>
 </p>
 
 ---
