@@ -70,28 +70,6 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ## ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png" width="45%"/>
-  <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png" width="45%"/>
-</p>
-
----
-
-### 🎓 MCA Study Hub – Notes & Previous Year Papers Platform
-
-🔹 Full-Stack Platform for MCA students  
-🔹 Upload / Download Notes & PYQs  
-🔹 Django REST + React + MySQL  
-🔹 JWT Authentication + Admin Panel  
-
-🌐 Live Demo: https://mca-study-hub.vercel.app  
-💻 GitHub: https://github.com/shannu1653/MCA_Study_Hub
-
-<a href="https://github.com/shannu1653/Shanmukha_Portfolio">
-<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png">
-</a>
-
----
 
 ### 🧑‍💻 Personal Portfolio Website
 
@@ -113,6 +91,23 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 <img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/portfolio.png">
 </a>
 </p>
+
+---
+---
+
+### 🎓 MCA Study Hub – Notes & Previous Year Papers Platform
+
+🔹 Full-Stack Platform for MCA students  
+🔹 Upload / Download Notes & PYQs  
+🔹 Django REST + React + MySQL  
+🔹 JWT Authentication + Admin Panel  
+
+🌐 Live Demo: https://mca-study-hub.vercel.app  
+💻 GitHub: https://github.com/shannu1653/MCA_Study_Hub
+
+<a href="https://github.com/shannu1653/Shanmukha_Portfolio">
+<img src="https://raw.githubusercontent.com/shannu1653/Shanmukha_Portfolio/main/assets/skills/McaStudyhub.png">
+</a>
 
 ---
 
