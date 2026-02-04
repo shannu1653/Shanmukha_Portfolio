@@ -22,13 +22,13 @@
 }
 
 /* Photo */
-.photo-container { position: relative; flex: 0 0 380px; display: flex; justify-content: center; align-items: center; z-index: 1;}
+.photo-container { position: relative; flex: 0 0 auto; display: flex; justify-content: center; align-items: center; z-index: 1;}
 .photo-ring { position: absolute; width: 330px; height: 330px; border-radius: 50%; border: 2px dashed var(--accent); opacity: 0.3; }
 .photo-frame { position: relative; border-radius: 50%; overflow: hidden; width: 300px; height: 300px; box-shadow: 0 0 45px rgba(0,255,200,0.25); border: 3px solid var(--accent); z-index: 1; }
-.profile-photo { width: 100%; height: 120%; object-fit: cover; border-radius: 43%; }
+.profile-photo { width: 100%; height: 100%; object-fit: cover; border-radius: 43%; }
 
 /* Info Section */
-.home-info { flex: 1; min-width: 360px; max-width: 700px; display: flex; flex-direction: column; justify-content: center; }
+.home-info { flex: 1; min-width: 0; max-width: 700px; display: flex; flex-direction: column; justify-content: center; }
 .home-title { font-size: 3rem; font-weight: 700; line-height: 1.2; margin-bottom: 0.4rem; }
 .home-name { background: linear-gradient(90deg, var(--accent), var(--accent-2), var(--accent)); -webkit-background-clip: text; color: transparent; background-size: 200%; display: inline-block; }
 .typing-effect { font-size: 1.2rem; color: rgba(255,255,255,0.85); margin-top: 0.4rem; max-width: 95%; display: inline-block; overflow: hidden; white-space: nowrap; border-right: 0.15em solid var(--accent); animation: typing 3.5s steps(40,end) forwards, blink .8s infinite; }
@@ -66,4 +66,98 @@
   display: flex;
   gap: 1.5rem;
   justify-content: center; /* ensures icons are centered */
+}
+/* ================= MOBILE RESPONSIVE FIX ================= */
+
+@media (max-width: 768px) {
+
+  .home-section {
+    padding: 2rem 1rem;
+    gap: 2rem;
+  }
+
+  .home-top {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* PHOTO */
+
+  .photo-container {
+    flex: none;
+    width: 100%;
+  }
+
+  .photo-ring {
+    width: 220px;
+    height: 220px;
+  }
+
+  .photo-frame {
+    width: 200px;
+    height: 200px;
+  }
+
+  /* INFO */
+
+  .home-info {
+    min-width: unset;
+    max-width: 100%;
+    text-align: center;
+    align-items: center;
+  }
+
+  .home-title {
+    font-size: 2rem;
+  }
+
+  .typing-effect {
+    font-size: 1rem;
+    white-space: normal;
+    border: none;
+    animation: none;
+    text-align: center;
+  }
+
+  /* TAGS */
+
+  .profession-tags {
+    justify-content: center;
+  }
+
+  .profession-tag {
+    font-size: 0.85rem;
+    padding: 6px 14px;
+  }
+
+  /* INFO CARDS */
+
+  .info-cards {
+    justify-content: center;
+  }
+
+  .info-card {
+    min-width: 140px;
+    padding: 10px 14px;
+  }
+
+  /* QUICK LINKS */
+
+  .quick-links {
+    margin-top: 2rem;
+  }
+
+  .quick-links-title {
+    font-size: 1.2rem;
+  }
+
+  .quick-links-list {
+    gap: 1rem;
+  }
+
+  .quick-link-img {
+    width: 42px;
+    height: 42px;
+  }
 }
