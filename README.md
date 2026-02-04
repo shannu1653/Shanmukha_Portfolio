@@ -65,22 +65,25 @@ I love crafting premium UI, scalable backends, and meaningful digital products.
 
 ## 🚀 Skills Progress
 
+<p align="center">
+
 React  
-![90%](https://progress-bar.dev/90/?title=React&width=500&color=00ffd5)
+<img src="https://progress-bar.dev/90/?width=600&color=00ffd5"/>
 
 JavaScript  
-![85%](https://progress-bar.dev/85/?title=JavaScript&width=500&color=6366f1)
+<img src="https://progress-bar.dev/85/?width=600&color=6366f1"/>
 
 Python  
-![95%](https://progress-bar.dev/95/?title=Python&width=500&color=facc15)
+<img src="https://progress-bar.dev/95/?width=600&color=facc15"/>
 
 Django  
-![90%](https://progress-bar.dev/90/?title=Django&width=500&color=4ade80)
+<img src="https://progress-bar.dev/90/?width=600&color=4ade80"/>
 
 MySQL  
-![90%](https://progress-bar.dev/90/?title=MySQL&width=500&color=38bdf8)
+<img src="https://progress-bar.dev/90/?width=600&color=38bdf8"/>
 
----
+</p>
+
 
 ## ⭐ Featured Projects
 
