@@ -80,7 +80,7 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              MCA graduate with practical experience in Python-based full-stack development, including Django, RESTful services, and SQL. 
+              MCA graduate with practical experience in Python-based full-stack development, including Django, RESTful services, and SQL.
               Seeking an entry-level role to contribute to scalable web applications.I am passionate about learning new technologies and seeking opportunities to contribute to real-world software projects as a Python Full-Stack Developer.
             </p>
           </motion.div>
@@ -135,10 +135,14 @@ export default function Resume() {
         >
           <h4 style={{ fontSize: 20, color: "#00b4ff", marginBottom: 12 }}>💼 Projects</h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
-            <li>1️⃣ IoT-enabled smart traffic management system</li>
-            <li>2️⃣ EV charging station locator system</li>
-            <li>3️⃣ Smart canteen menu system</li>
-            <li>4️⃣ Food Mart e-commerce application</li>
+            <li>1️⃣ MCA Study Hub – Academic Notes & Resource Platform</li>
+            <li>2️⃣ Smart EV Station Locator – Python Full Stack Application</li>
+            <li>3️⃣ Smart Canteen Menu System – Django Full Stack Ordering System</li>
+            <li>4️⃣ Personal Portfolio Website – React Application</li>
+            <li>5️⃣ Smart Traffic Management System (IoT-Based)</li>
+            <li>6️⃣ Food Mart – E-Commerce Web Application</li>
+            <li>7️⃣ Event Handler – Event Management Web Application</li>
+
           </ul>
         </motion.div>
 
