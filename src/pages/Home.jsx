@@ -1,17 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import "../CSS/Home.css"
-import '../index.css' 
-
-
-// 🖼️ Import Assets
-import photo from '../../public/photo.png'
-import githubLogo from '../../public/github.png'
-import linkedinLogo from '../../public/linkedin.png'
-import gmailLogo from '../../public/gmail.png'
-import whatsappLogo from '../../public/whatsapp.png'
-import instagramLogo from '../../public/insta.png'
-import facebookLogo from '../../public/facebook.png'
+import '../index.css'
 
 export default function Home() {
   const professions = [
@@ -23,17 +13,17 @@ export default function Home() {
   ]
 
   const quickLinks = [
-    { img: githubLogo, title: 'GitHub', link: 'https://github.com/shannu1653' },
-    { img: linkedinLogo, title: 'LinkedIn', link: 'https://www.linkedin.com/in/shanmukhapenta//' },
-    { img: gmailLogo, title: 'Email', link: 'mailto:pentashanmukha2002@gmail.com' },
-    { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/+918096085857' },
-    { img: instagramLogo, title: 'Instagram', link: 'https://www.instagram.com/mr.shannu1653/' },
-    { img: facebookLogo, title: 'Facebook', link: 'https://www.facebook.com/shanmukhap.penta/' },
+    { img: "/github.png", title: 'GitHub', link: 'https://github.com/shannu1653' },
+    { img: "/linkedin.png", title: 'LinkedIn', link: 'https://www.linkedin.com/in/shanmukhapenta//' },
+    { img: "/gmail.png", title: 'Email', link: 'mailto:pentashanmukha2002@gmail.com' },
+    { img: "/whatsapp.png", title: 'WhatsApp', link: 'https://wa.me/+918096085857' },
+    { img: "/insta.png", title: 'Instagram', link: 'https://www.instagram.com/mr.shannu1653/' },
+    { img: "/facebook.png", title: 'Facebook', link: 'https://www.facebook.com/shanmukhap.penta/' },
   ]
 
   return (
     <section className="home-section">
-      {/* Typing Effect Styles */}
+
       <style>
         {`
           @keyframes typing { from { width: 0; } to { width: 100%; } }
@@ -41,9 +31,8 @@ export default function Home() {
         `}
       </style>
 
-      {/* Top Section: Photo + Info */}
       <div className="home-top">
-        {/* Left: Glowing Photo */}
+
         <motion.div
           initial={{ opacity: 0, x: -60 }}
           animate={{ opacity: 1, x: 0 }}
@@ -55,13 +44,14 @@ export default function Home() {
             transition={{ duration: 25, repeat: Infinity, ease: 'linear' }}
             className="photo-ring"
           />
+
           <motion.div
             animate={{ y: [0, -8, 0] }}
             transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}
             className="photo-frame"
           >
             <motion.img
-              src={photo}
+              src="/photo.png"
               alt="Shanmukha Penta"
               initial={{ scale: 0.8, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
@@ -71,7 +61,6 @@ export default function Home() {
           </motion.div>
         </motion.div>
 
-        {/* Right: Info Section */}
         <motion.div
           initial={{ opacity: 0, x: 60 }}
           animate={{ opacity: 1, x: 0 }}
@@ -89,28 +78,35 @@ export default function Home() {
             </motion.span>
           </h1>
 
-          {/* Typing Animated Text */}
           <p className="typing-effect">
             Python Fullstack Developer | Frontend Developer | Backend Developer
           </p>
 
-          {/* Profession Tags */}
           <motion.div className="profession-tags">
             {professions.map((role, i) => (
-              <motion.div key={i} whileHover={{ scale: 1.05, background: 'linear-gradient(90deg,var(--accent),var(--accent-2))' }} transition={{ type: 'spring', stiffness: 200 }} className="profession-tag">
+              <motion.div
+                key={i}
+                whileHover={{ scale: 1.05, background: 'linear-gradient(90deg,var(--accent),var(--accent-2))' }}
+                transition={{ type: 'spring', stiffness: 200 }}
+                className="profession-tag"
+              >
                 {role}
               </motion.div>
             ))}
           </motion.div>
 
-          {/* Info Cards */}
           <motion.div className="info-cards">
             {[
               { label: '📍 Location', value: 'Vizianagaram, Andhra Pradesh, India' },
               { label: '💼 Expertise', value: 'Python/DSA, Problem Solving' },
               { label: '📧 Contact', value: 'pentashanmukha2002@gmail.com' },
             ].map((info, i) => (
-              <motion.div key={i} whileHover={{ y: -4, scale: 1.05 }} transition={{ type: 'spring', stiffness: 250 }} className="info-card">
+              <motion.div
+                key={i}
+                whileHover={{ y: -4, scale: 1.05 }}
+                transition={{ type: 'spring', stiffness: 250 }}
+                className="info-card"
+              >
                 <strong>{info.label}</strong>
                 <p>{info.value}</p>
               </motion.div>
@@ -119,9 +115,9 @@ export default function Home() {
         </motion.div>
       </div>
 
-      {/* Bottom Quick Links */}
       <motion.div className="quick-links">
         <h2 className="quick-links-title">Connect with me</h2>
+
         <div className="quick-links-list">
           {quickLinks.map((item, i) => (
             <motion.a
