@@ -8,7 +8,7 @@ const PROJECTS = [
   {
     title: '🧑‍💻 Personal Portfolio',
     desc: 'Modern responsive developer portfolio with gallery, certificates, resume and premium UI animations.',
-    ss: '/assets/skills/portfolio.png',
+    ss: '/gallery/portfolio.png',
     tech: ['React', 'Vite', 'CSS', 'Framer Motion'],
     live: 'https://shanmukha-portfolio-three.vercel.app',
     code: 'https://github.com/shannu1653/Shanmukha_Portfolio'
@@ -16,7 +16,7 @@ const PROJECTS = [
   {
     title: '🎓 MCA Study Hub',
     desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
-    ss: '/assets/skills/mcastudyhub.png',
+    ss: '/gallery/mcastudyhub.png',
     tech: ['React', 'Django REST', 'MySQL', 'JWT'],
     live: 'https://mca-study-hub.vercel.app',
     code: 'https://github.com/shannu1653/mca-study-hub.git'
@@ -24,7 +24,7 @@ const PROJECTS = [
   {
     title: '⚡ Smart EV Station Locator',
     desc: 'Python full-stack application to locate nearby EV charging stations with admin dashboard.',
-    ss: '/assets/skills/smartev.png',
+    ss: '/gallery/smartev.png',
     tech: ['JavaScript', 'Django REST', 'MySQL', 'JWT'],
     live: 'https://tharun123-dev.github.io/EVStationLocatorr/frontend/index.html',
     code: 'https://github.com/shannu1653/EVStationLocator.git'
@@ -32,7 +32,7 @@ const PROJECTS = [
   {
     title: '🍽 Smart Canteen Menu',
     desc: 'Food ordering and management system for colleges with admin control and student dashboard.',
-    ss: '/assets/skills/smartcanteen.jpeg',
+    ss: '/gallery/smartcanteen.jpeg',
     tech: ['Python', 'Django', 'HTML', 'CSS'],
     live: 'https://smart-menu-canteen.onrender.com/',
     code: 'https://github.com/shannu1653/smart_menu_canteen.git'
@@ -40,7 +40,7 @@ const PROJECTS = [
   {
     title: '🎫 Event Handler',
     desc: 'Event booking platform with auth, wishlist, filters, CRUD events and localStorage powered flow.',
-    ss: '/assets/skills/eventhandler.png',
+    ss: '/gallery/eventhandler.png',
     tech: ['JavaScript', 'HTML', 'CSS', 'Bootstrap'],
     live: 'https://shannu1653.github.io/Event_Handling',
     code: 'https://github.com/shannu1653/Event_Handling.git'
@@ -48,7 +48,7 @@ const PROJECTS = [
   {
     title: '🚦 Traffic Management System',
     desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
-    ss: '/assets/skills/traffic.png',
+    ss: '/gallery/traffic.png',
     tech: ['React', 'Django', 'MySQL'],
     live: '#',
     code: 'https://github.com/shannu1653/traffic-management-system-backend.git'
@@ -56,7 +56,7 @@ const PROJECTS = [
   {
     title: '📊 FoodMart',
     desc: 'CSV profiling tool for data analysis and visualization.',
-    ss: '/assets/skills/foodmart.png',
+    ss: '/gallery/foodmart.png',
     tech: ['HTML', 'CSS', 'Bootstrap'],
     live: 'https://shannu1653.github.io/Farm2Home/',
     code: 'https://github.com/shannu1653/Farm2Home.git'
