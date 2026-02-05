@@ -19,7 +19,7 @@ export default function Home() {
     'Backend Developer',
     "Frontend Developer",
     'Computer Vision Researcher',
-    'Developer',
+    'Full Stack Developer',
   ]
 
   const quickLinks = [
@@ -91,7 +91,7 @@ export default function Home() {
 
           {/* Typing Animated Text */}
           <p className="typing-effect">
-            Python Fullstack Developer | Frontend Developer | Tech Explorer
+            Python Fullstack Developer | Frontend Developer | Backend Developer
           </p>
 
           {/* Profession Tags */}

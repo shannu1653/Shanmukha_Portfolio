@@ -5,51 +5,77 @@ import { motion, AnimatePresence } from "framer-motion";
 const CERTS = {
   tech: [
     {
-      title: "Flipkart Hackathon",
-      org: "Flipkart",
-      date: "2022",
-      img: "/certs/flipkart.jpg",
-      link: "/certs/flipkart.jpg",
-    },
-    {
-      title: "Solution Challenge",
-      org: "Google Developers",
-      date: "2023",
-      img: "/certs/hack2skill.png",
-      link: "/certs/hack2skill.png",
-    },
-    {
-      title: "ADira",
-      org: "SCET AI Club",
+      title: "Webathon – 2nd Prize",
+      org: "10Coders",
       date: "2025",
-      img: "/certs/adira.png",
-      link: "/certs/adira.png",
+      img: "/certs/webathon.jpg",
+      link: "/certs/webathon.jpg",
     },
+    {
+      title: "Coding Challenge – 2nd Prize",
+      org: "College Technical Event",
+      date: "2025",
+      img: "/certs/codingchallenge.jpg",
+      link: "/certs/codingchallenge.jpg",
+    },
+    {
+      title: "Cisco Data Analytics",
+      org: "Cisco Networking Academy",
+      date: "2025",
+      img: "/certs/cisco-data-analytics.jpg",
+      link: "/certs/cisco-data-analytics.jpg",
+    },
+    {
+      title: "Frontend Development Internship",
+      org: "APSCHE",
+      date: "2023",
+      img: "/certs/apsche-frontend.jpg",
+      link: "/certs/apsche-frontend.jpg",
+    },
+    {
+      title: "AI/ML Virtual Internship",
+      org: "VCUBE Software Solutions",
+      date: "2025",
+      img: "/certs/vcube-aiml.jpg",
+      link: "/certs/vcube-aiml.jpg",
+    },
+    
+    
   ],
   other: [
     {
-      title: "codathon",
-      org: "SCET tech fest",
-      date: "2025",
-      img: "/certs/codathon.png",
-      link: "/certs/codathon.png",
-    },
-    {
-      title: "bugbuzz",
-      org: "SCET tech fest",
-      date: "2025",
-      img: "/certs/bugbuzz.png",
-      link: "/certs/bugbuzz.png",
-    },
-    {
-      title: "Dataloom",
-      org: "SCET",
+      title: "NCC 'C' Certificate",
+      org: "National Cadet Corps",
       date: "2024",
-      img: "/certs/dataloom.png",
-      link: "/certs/dataloom.png",
+      img: "/certs/ncc-certificate.jpg",
+      link: "/certs/ncc-certificate.jpg",
     },
+    {
+      title: "Power BI Workshop",
+      org: "OfficeMaster",
+      date: "2025",
+      img: "/certs/powerbi-workshop.jpg",
+      link: "/certs/powerbi-workshop.jpg",
+    },
+    {
+      title: "AWS Solutions Architecture Virtual Experience Program",
+      org: "Amazon Web Services (Forage)",
+      date: "2022",
+      img: "/certs/aws-solutions-architecture.jpg",
+      link: "/certs/aws-solutions-architecture.jpg",
+    },
+    {
+      title: "Salesforce Developer Virtual Internship",
+      org: "SmartInternz / Salesforce",
+      date: "2022",
+      img: "/certs/salesforce-internship.jpg",
+      link: "/certs/salesforce-internship.jpg",
+    },
+    
+    
   ],
 };
+
 
 export default function Certificates() {
   const [tab, setTab] = useState("tech");

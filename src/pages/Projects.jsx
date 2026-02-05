@@ -1,12 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
-import smartCanteen from '../assets/skills/smart_canteen.jpeg';
-import portfolio from '../assets/skills/portfolio.png';
-import eventhandler from '../assets/skills/eventhandler.png';
-import foodmart from '../assets/skills/foodmart.png';
-import SmartEv from '../assets/skills/SmartEv.png';
-import McaStudyhub from '../assets/skills/McaStudyhub.png';
 
 
 
@@ -14,7 +8,7 @@ const PROJECTS = [
    {
     title: '🧑‍💻 Personal Portfolio',
     desc: 'Modern responsive developer portfolio with gallery, certificates, resume and premium UI animations.',
-    ss: portfolio,
+    ss: '../assets/skills/portfolio.png',
     tech: ['React', 'Vite', 'CSS', 'Framer Motion'],
     live: 'https://shanmukha-portfolio-three.vercel.app',
     code: 'https://github.com/shannu1653/Shanmukha_Portfolio'
@@ -22,7 +16,7 @@ const PROJECTS = [
   {
     title: '🎓 MCA Study Hub',
     desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
-    ss: McaStudyhub,
+    ss: '../assets/skills/McaStudyhub.png',
     tech: ['React', 'Django REST', 'MySQL', 'JWT'],
     live: 'https://mca-study-hub.vercel.app',
     code: 'https://github.com/shannu1653/mca-study-hub.git'
@@ -30,15 +24,15 @@ const PROJECTS = [
   {
     title: '🎓 Smart EV Station Loc',
     desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
-    ss: SmartEv,
-    tech: ['React', 'Django REST', 'MySQL', 'JWT'],
-    live: 'https://mca-study-hub.vercel.app',
-    code: 'https://github.com/shannu1653/mca-study-hub.git'
+    ss: '../assets/skills/SmartEv.png',
+    tech: ['Javascript', 'Django REST', 'MySQL', 'JWT'],
+    live: 'https://tharun123-dev.github.io/EVStationLocatorr/frontend/index.html',
+    code: 'https://github.com/shannu1653/EVStationLocator.git'
   },
   {
     title: '🍽 Smart Canteen Menu',
     desc: 'Food ordering and management system for colleges with admin control and student dashboard.',
-    ss: smartCanteen,
+    ss: '../assets/skills/smart_canteen.jpeg',
     tech: ['Python', 'Django', 'HTML', 'CSS'],
     live: 'https://smart-menu-canteen.onrender.com/',
     code: 'https://github.com/shannu1653/smart_menu_canteen.git'
@@ -47,31 +41,27 @@ const PROJECTS = [
   {
     title: '🎫 Premium Eventbrite ',
     desc: 'Event booking platform with auth, wishlist, filters, CRUD events and localStorage powered flow.',
-    ss: eventhandler,
-    tech: ['JavaScript', 'HTML', 'CSS'],
-    live: '#',
-    code: '#'
+    ss: '../assets/skills/eventhandler.png',
+    tech: ['JavaScript', 'HTML', 'CSS','bootstrap'],
+    live: 'https://shannu1653.github.io/Event_Handling',
+    code: 'https://github.com/shannu1653/Event_Handling.git'
   },
 
   {
   title: '🚦 Traffic Management System',
   desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
-  ss: SmartEv,
+  ss: '../assets/skills/smart_canteen.jpeg',
   tech: ['React', 'Django', 'MySQL'],
   live: '#',
-  code: '#'
+  code: 'https://github.com/shannu1653/traffic-management-system-backend.git'
 },
-
-
-  
-
   {
     title: '📊 FoodMart',
     desc: 'CSV profiling tool for data analysis and visualization.',
-    ss: foodmart,
-    tech: ['Python', 'Pandas', 'Streamlit'],
-    live: '#',
-    code: '#'
+    ss: '../assets/skills/foodmart.png',
+    tech: ['Html', 'Css', 'Bootstrap'],
+    live: 'https://shannu1653.github.io/Farm2Home/',
+    code: 'https://github.com/shannu1653/Farm2Home.git'
   }
 ]
 

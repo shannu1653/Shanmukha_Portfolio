@@ -4,45 +4,76 @@ import "./Skills.css";
 
 const SKILLS = [
   { name: "Python", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
-  { name: "Django", logo: "https://static.cdnlogo.com/logos/d/3/django.svg"  },
-  { name: "Numpy", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" },
-  { name: "Pandas", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" },
-  { name: "HTML", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
-  { name: "CSS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
+  { name: "Django", logo: "https://static.cdnlogo.com/logos/d/3/django.svg" },
+  { name: "Django REST Framework", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" },
+
+  { name: "HTML5", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
+  { name: "CSS3", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" },
   { name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
-  { name: "React", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+  { name: "React.js", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+
+  { name: "Bootstrap", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" },
+  { name: "Framer Motion", logo: "https://cdn.worldvectorlogo.com/logos/framer-motion.svg" },
+
+  { name: "Render", logo: "https://avatars.githubusercontent.com/u/36424661?s=200&v=4" },
+
+
   { name: "MySQL", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
-  { name: "Matplotlib", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" },
+  { name: "SQLite", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" },
+  { name: "Supabase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" },
+
+  { name: "JWT Authentication", logo: "https://cdn.worldvectorlogo.com/logos/jwt-3.svg" },
+
   { name: "Git", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
   { name: "GitHub", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
-  { name: "Bootstrape", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" },
-  { name: "PowerBi", logo: "https://static.cdnlogo.com/logos/p/95/power-bi.svg" },
+
+  { name: "Power BI", logo: "https://logo.svgcdn.com/logos/microsoft-power-bi.svg" },
 ];
 
 const ROWS = [
   [
-    { title: "Programming Languages", items: ["Python", "C", "C++", "Java"] },
-    { title: "Web Technologies", items: ["HTML", "CSS", "JavaScript", "React"] },
-    { title: "Databases & Tools", items: ["MySQL", "MongoDB", "Git"] },
-    { title: "Frameworks & Libraries", items: ["TensorFlow", "PyTorch", "OpenCV"] },
+    {
+      title: "Programming Languages",
+      items: ["Python", "JavaScript (ES6+)", ],
+    },
+    {
+      title: "Frontend Technologies",
+      items: ["React.js", "HTML5", "CSS3", "Bootstrap", "Framer Motion"],
+    },
+    {
+      title: "Backend Technologies",
+      items: ["Django", "Django REST Framework", "JWT Authentication", "REST APIs"],
+    },
+    {
+      title: "Databases & DevOps",
+      items: ["MySQL (Aiven)", "SQLite", "Supabase", "Git", "GitHub", "Render"],
+    },
   ],
   [
     {
-      title: "Core Concepts",
+      title: "Core Technical Skills",
       items: [
-        "Data Structures & Algorithms",
-        "Machine Learning",
-        "Deep Learning",
-        "YOLO Object Detection",
-        "Explainable AI (XAI)",
+        "Full Stack Web Development",
+        "API Development",
+        "Authentication & Authorization",
+        "Admin Dashboard Development",
+        "Cloud Deployment",
       ],
     },
     {
-      title: "Soft Skills",
-      items: ["Teamwork", "Problem Solving", "Creativity", "Adaptability", "Communication"],
+      title: "Professional Skills",
+      items: [
+        "Problem Solving",
+        "Team Collaboration",
+        "Clean Code Practices",
+        "Time Management",
+        "Continuous Learning",
+        "Leadership Quality"
+      ],
     },
   ],
 ];
+
 
 export default function Skills() {
   const stageRef = useRef();
