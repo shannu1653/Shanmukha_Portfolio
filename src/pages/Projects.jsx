@@ -5,7 +5,7 @@ import { Github, ExternalLink } from 'lucide-react'
 
 
 const PROJECTS = [
-   {
+  {
     title: '🧑‍💻 Personal Portfolio',
     desc: 'Modern responsive developer portfolio with gallery, certificates, resume and premium UI animations.',
     ss: '/assets/skills/portfolio.png',
@@ -22,10 +22,10 @@ const PROJECTS = [
     code: 'https://github.com/shannu1653/mca-study-hub.git'
   },
   {
-    title: '🎓 Smart EV Station Loc',
-    desc: 'Full-stack academic platform for MCA students to upload, download notes & previous year papers with JWT auth and admin panel.',
+    title: '⚡ Smart EV Station Locator',
+    desc: 'Python full-stack application to locate nearby EV charging stations with admin dashboard.',
     ss: '/assets/skills/smartev.png',
-    tech: ['Javascript', 'Django REST', 'MySQL', 'JWT'],
+    tech: ['JavaScript', 'Django REST', 'MySQL', 'JWT'],
     live: 'https://tharun123-dev.github.io/EVStationLocatorr/frontend/index.html',
     code: 'https://github.com/shannu1653/EVStationLocator.git'
   },
@@ -37,33 +37,32 @@ const PROJECTS = [
     live: 'https://smart-menu-canteen.onrender.com/',
     code: 'https://github.com/shannu1653/smart_menu_canteen.git'
   },
-
   {
-    title: '🎫 Premium Eventbrite ',
+    title: '🎫 Event Handler',
     desc: 'Event booking platform with auth, wishlist, filters, CRUD events and localStorage powered flow.',
     ss: '/assets/skills/eventhandler.png',
-    tech: ['JavaScript', 'HTML', 'CSS','bootstrap'],
+    tech: ['JavaScript', 'HTML', 'CSS', 'Bootstrap'],
     live: 'https://shannu1653.github.io/Event_Handling',
     code: 'https://github.com/shannu1653/Event_Handling.git'
   },
-
   {
-  title: '🚦 Traffic Management System',
-  desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
-  ss: '/assets/skills/smartcanteen.jpeg',
-  tech: ['React', 'Django', 'MySQL'],
-  live: '#',
-  code: 'https://github.com/shannu1653/traffic-management-system-backend.git'
-},
+    title: '🚦 Traffic Management System',
+    desc: 'Role-based dashboard system for admins, officers and users with charts, analytics and JWT auth.',
+    ss: '/assets/skills/traffic.png',
+    tech: ['React', 'Django', 'MySQL'],
+    live: '#',
+    code: 'https://github.com/shannu1653/traffic-management-system-backend.git'
+  },
   {
     title: '📊 FoodMart',
     desc: 'CSV profiling tool for data analysis and visualization.',
     ss: '/assets/skills/foodmart.png',
-    tech: ['Html', 'Css', 'Bootstrap'],
+    tech: ['HTML', 'CSS', 'Bootstrap'],
     live: 'https://shannu1653.github.io/Farm2Home/',
     code: 'https://github.com/shannu1653/Farm2Home.git'
   }
-]
+];
+
 
 
 export default function Projects() {
