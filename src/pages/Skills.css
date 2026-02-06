@@ -101,3 +101,48 @@
   width: 300px;
   text-align: left;
 }
+/* ================= CLEAN MOBILE SKILLS ================= */
+/* ================= MOBILE SKILLS SMALL + MOTION ================= */
+/* ========= MOBILE SKILLS HARD FIX (ONE SCREEN + SMALL + MOTION) ========= */
+/* ===== MOBILE FORCE SMALL SKILLS (CSS ONLY) ===== */
+@media (max-width: 768px) {
+
+  .skills-stage {
+    width: 300px !important;
+    height: auto !important;
+    min-height: 300px !important;
+    padding: 6px !important;
+    margin: 6px auto 14px !important;
+
+    display: grid !important;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 6px;
+
+    overflow: hidden !important;
+  }
+
+  .skill-circle {
+    width: 32px !important;
+    height: 32px !important;
+
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+
+    margin: auto !important;
+    box-shadow: none !important;
+  }
+
+  .skill-circle img {
+    width: 14px !important;
+    height: 14px !important;
+  }
+
+  .skill-circle span {
+    font-size: 5px !important;
+  }
+
+  .skills-table {
+    margin-top: 14px !important;
+  }
+}

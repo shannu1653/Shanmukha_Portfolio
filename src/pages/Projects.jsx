@@ -1,6 +1,8 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
+import "../CSS/projects.css";
+
 
 
 
@@ -68,13 +70,13 @@ const PROJECTS = [
 export default function Projects() {
   return (
     <motion.section
-      className="container"
+      className="projects-container"
       initial={{ opacity: 0, y: 30 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
       id="projects"
     >
-      <div className="card" style={{ background: 'rgba(255,255,255,0.03)', borderRadius: 16, padding: 30 }}>
+      <div className="card">
         <motion.h2
           className="text-4xl font-semibold text-cyan-400 mb-2"
           initial={{ opacity: 0 }}
@@ -87,7 +89,7 @@ export default function Projects() {
           A collection of my major works — blending research, AI innovation.
         </p>
 
-        <div className="projects-grid" style={{ display: 'grid', gap: 24, gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))' }}>
+        <div className="projects-grid">
           {PROJECTS.map((p, idx) => (
             <motion.div
               key={idx}
